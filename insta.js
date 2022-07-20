@@ -1,6 +1,6 @@
 const pup = require("puppeteer");
 const username = "puppeteerproject";
-const pass = "java@pep";
+const pass = "";
 
 async function login(tab)
 {
